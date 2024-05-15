@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\tools",
+    "\\tools\\functional-testing",
+    "\\tools\\functional-testing\\puppeteer-FT",
+    "\\tools\\functional-testing\\puppeteer-FT\\tests"
+  ],
+  "SelectedNode": "\\tools\\functional-testing\\puppeteer-FT\\jest.config.js",
+  "PreviewInSolutionExplorer": false
+}

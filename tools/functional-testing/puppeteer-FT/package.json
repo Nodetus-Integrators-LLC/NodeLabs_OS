@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-FT",
+  "version": "1.0.0",
+  "description": "A functional testing project using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nodetus Integrators LLC",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "puppeteer": "^19.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "jest-puppeteer": "^10.0.1"
+  }
+}
